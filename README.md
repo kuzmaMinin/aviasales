@@ -1,8 +1,10 @@
 # aviasales
 ## aviasales test task
-Тестовое задание от Avisales, взятое из открытых источников.
+Тестовое задание от Avisales
 
 ### Ссылка на тестовое задание - <https://github.com/Hexlet/ru-test-assignments>
 
-### Проект постороен с применением технологий React Mobx и Material UI.
+Тестовое задание на позицию frontend junior,взято для прокачки навыков
+
+### Проект постороен с применением технологий !<React Mobx и Material UI>.
 
